@@ -1,6 +1,8 @@
 
 Junyeong Jo (509291)
 
+Used SwiftUI to build to-do app
+
 Features:
 - create new to-do
 - delete
